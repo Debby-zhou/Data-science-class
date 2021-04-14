@@ -1,3 +1,27 @@
 [submodule "Tutorial/TA_Git_GitHub"]
 	path = Tutorial/TA_Git_GitHub
 	url = https://github.com/cyclonelee24/TA_Git_GitHub.git
+[submodule "Tutorial/TA_Matplotlib"]
+	path = Tutorial/TA_Matplotlib
+	url = https://github.com/cyclonelee24/TA_Matplotlib.git
+[submodule "Tutorial/TA_Pandas"]
+	path = Tutorial/TA_Pandas
+	url = https://github.com/cyclonelee24/TA_Pandas.git
+[submodule "Tutorial/TA_Jupyter_Notebook"]
+	path = Tutorial/TA_Jupyter_Notebook
+	url = https://github.com/cyclonelee24/TA_Jupyter_Notebook.git
+[submodule "Tutorial/TA_Numpy"]
+	path = Tutorial/TA_Numpy
+	url = https://github.com/cyclonelee24/TA_Numpy.git
+[submodule "HW_backup/hw3"]
+	path = HW_backup/hw3
+	url = git@github.com:NCKU-IDS-2021/2021-ncku-ids-hw3-Debby-zhou.git
+[submodule "HW_backup/hw2"]
+	path = HW_backup/hw2
+	url = git@github.com:NCKU-IDS-2021/2021-ncku-ids-hw2-Debby-zhou.git
+[submodule "HW_backup/hw1"]
+	path = HW_backup/hw1
+	url = git@github.com:NCKU-IDS-2021/2021-ncku-ids-hw1-Debby-zhou.git
+[submodule "HW_backup/hw0"]
+	path = HW_backup/hw0
+	url = git@github.com:NCKU-IDS-2021/2021-ncku-ids-hw0-Debby-zhou.git
