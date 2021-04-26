@@ -25,3 +25,6 @@
 [submodule "HW_backup/hw0"]
 	path = HW_backup/hw0
 	url = git@github.com:NCKU-IDS-2021/2021-ncku-ids-hw0-Debby-zhou.git
+[submodule "Tutorial/TA_Beautifulsoup"]
+	path = Tutorial/TA_Beautifulsoup
+	url = https://github.com/cyclonelee24/TA_Beautifulsoup.git
