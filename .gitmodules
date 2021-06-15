@@ -34,3 +34,6 @@
 [submodule "HW_backup/hw5"]
 	path = HW_backup/hw5
 	url = git@github.com:NCKU-IDS-2021/2021-ncku-ids-hw5-Debby-zhou.git
+[submodule "HW_backup/hw6"]
+	path = HW_backup/hw6
+	url = git@github.com:NCKU-IDS-2021/2021-ncku-ids-hw6-team5.git
